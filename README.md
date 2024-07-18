@@ -1,4 +1,11 @@
+<div align='center'>
 
+## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+
+</div>
+<br/>
+<br/>
+<br/>
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
@@ -10,36 +17,46 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=9818F7&random=false&width=435&lines=Always+learn+new+things;Front-end+web+developer" alt="Typing SVG" />
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
 - 🏢 I am a software engineer and front-end developer.
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://eng-saeed.netlify.app/ to see some of my projects.
+- 👨‍💻 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1ujH16EfTnt5i3eW8hp0HWl5FglQXB2HF/view?usp=sharing)
 
 
-### Connect with Me :
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-<a href="https://linkedin.com/in/saeed-developer" target="_blank"><img src="https://img.shields.io/badge/-Saeed%20Sayed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/SaeedSayed1" target="_blank"><img src="https://img.shields.io/badge/-Saeed%20Sayed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+[![@saeed_sayed1](https://img.icons8.com/fluency/48/000000/instagram-new.png "@saeed_sayed1")](https://www.instagram.com/saeed_sayed1/)
+[![@SAEIDSAUED](https://img.icons8.com/fluency/48/000000/facebook.png "@SAEIDSAUED")](https://www.facebook.com/SAEIDSAUED)
+[![@saeed-developer](https://img.icons8.com/fluency/48/000000/linkedin.png "@saeed-developer")](https://linkedin.com/in/saeed-developer)
 
 <!--<a href="https://www.buymeacoffee.com/yousefdergham" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>-->
 
-### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Node.js](https://img.shields.io/badge/-tailwindCSS-05122A?style=flat&logo=tailwindcss&logoColor=339933)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
-<!--![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;-->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML 5"/><img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/> 
+<img src="https://img.icons8.com/color/48/000000/sass.png" title="SCSS"/>
+<img src="https://img.icons8.com/color/48/000000/tailwindcss.png" title="tailwindCSS"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="tailwindCSS"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="Javascript"/>
+<img src="https://img.icons8.com/color/48/000000/typescript--v1.png" title="Typescript"/>
+<img src="https://img.icons8.com/office/48/000000/react.png" title="React"/> 
+<img src="https://img.icons8.com/color/48/000000/nextjs.png" title="NextJs"/>
+<img src="https://img.icons8.com/color/48/000000/firebase.png" title="firebase"/>
+<img src="https://img.icons8.com/color/48/000000/redux.png" title="Redux"/>
+<img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
 
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saeedsayed&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
