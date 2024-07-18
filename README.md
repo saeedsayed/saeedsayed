@@ -44,6 +44,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saeedsayed&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <be>
-    <img src="https://komarev.com/ghpvc/?username=saeedsayed&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=saeedsayed&style=for-the-badge&base=10000">
 <!--<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
 </a>-->
