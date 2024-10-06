@@ -30,7 +30,7 @@
 - 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://eng-saeed.netlify.app/ to see some of my projects.
-- 👨‍💻 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1nkKiJNpPT6jqEe8N0FrS0NA3sfxZK6U5/view?usp=sharing)
+- 👨‍💻 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://firebasestorage.googleapis.com/v0/b/my-portfolio-28ed6.appspot.com/o/Resume%2FSaeed-resume.pdf?alt=media&token=707e3b39-e31b-4b03-b591-c15b87dba4df)
 
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
