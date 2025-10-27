@@ -25,7 +25,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 🏢 I am a software engineer and front-end developer.
+- 🏢 I am a software engineer and full stack developer.
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
@@ -49,6 +49,9 @@
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="tailwindCSS"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="Javascript"/>
 <img src="https://img.icons8.com/color/48/000000/typescript--v1.png" title="Typescript"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs--v1.png" title="nodejs"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb--v1.png" title="mongodb"/>
+<img src="https://img.icons8.com/color/48/000000/api--v1.png" title="restful API"/>
 <img src="https://img.icons8.com/office/48/000000/react.png" title="React"/> 
 <img src="https://img.icons8.com/color/48/000000/nextjs.png" title="NextJs"/>
 <img src="https://img.icons8.com/color/48/000000/firebase.png" title="firebase"/>
